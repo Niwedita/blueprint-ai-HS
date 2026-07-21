@@ -382,7 +382,7 @@ Blueprint AI reduces implementation planning from hours to minutes while helping
 
 **Application**
 
-[Add Lovable Deployment URL]
+https://hubspot-blueprint-ai.lovable.app/
 
 ---
 
